@@ -1,6 +1,7 @@
 # Pablo Barrales Cartes
-###### Email: psbarrales@gmail.com - LinkedIn: https://www.linkedin.com/in/psbarrales 
-----
+#### Email: psbarrales@gmail.com - LinkedIn: https://www.linkedin.com/in/psbarrales 
+
+---
 
 ## Software Developer 
 **Front-end & Backend**
@@ -48,11 +49,11 @@ Hungry for knowledge about software with a great capabilities to learn new langu
 - Database MySQL
 - Android and iOS App
 
-##### Software Developer, [07/2012] to [12/2011] - [Educatech, Concepción, Chile] 
+##### Software Developer, [07/2011] to [12/2011] - [Educatech, Concepción, Chile] 
 - Creating educational software
 - Working with PHP, jQuery, CSS, Flash.
 
-##### Main Software Developer, [08/2012] to [12/2011] - [Reusin, Concepción, Chile]
+##### Main Software Developer, [08/2011] to [12/2011] - [Reusin, Concepción, Chile]
 - An environmental site to help people to give away things that don't use.
 - My first big project made in PHP and MySQL
 
